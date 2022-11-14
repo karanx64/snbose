@@ -3,6 +3,9 @@
     margin: 0;
     font-family: sans-serif;
 }
+body{
+    background-color: rgb(61, 61, 61);
+}
 .index-header{
     display: flex;
     flex-direction: row;
