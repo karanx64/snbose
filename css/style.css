@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+header{
+    background-color:;
+}
+body{
+    overflow: auto;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
