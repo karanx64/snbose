@@ -59,5 +59,30 @@ main{
 }
 .fleximage img{
     width: 300px;
+    border: 2px solid black;
     border-radius: 10px;
+}
+.fleximage img:hover{
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+}
+footer{
+    background-color: grey;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.footer-link{
+    text-decoration: none;
+    color: white;
+}
+.footer-link:hover{
+    color: black;
+    transition: all 0.3s ease-in-out;
 }
