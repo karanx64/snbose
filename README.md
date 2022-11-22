@@ -1,4 +1,4 @@
-# snbose.github.io
+# snbose
 primarily for html, css.
 
 An SN Bose tribute page
