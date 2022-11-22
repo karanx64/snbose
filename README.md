@@ -1,6 +1,6 @@
 # snbose.github.io
 primarily for html, css.
 
-A SN Bose tribute page
+An SN Bose tribute page
 
 I made this project while learning basics of HTML and CSS, no Javascript is used in this project.
